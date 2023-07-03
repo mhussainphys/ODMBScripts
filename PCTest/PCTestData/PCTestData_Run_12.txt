@@ -1,0 +1,8 @@
+PowerCycleInterval: 5.00 
+MeasureInterval: 1.50 
+Number of tests: 1 
+SetVoltage: 8.000 
+CurrentLimit: 0.300 
+1687826620.379	8.001	0.122
+1687826622.070	8.001	0.123
+1687826623.761	8.001	0.123
